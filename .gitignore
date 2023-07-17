@@ -1,3 +1,10 @@
 /.vscode
 /project.uvguix.Jonty
 /project.uvoptx
+Objects/main.crf
+Objects/main.o
+Objects/project_Target 1.dep
+Objects/project.build_log.htm
+Objects/project.htm
+Objects/pwm.crf
+Objects/pwm.o
